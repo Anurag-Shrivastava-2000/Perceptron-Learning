@@ -1,2 +1,2 @@
 # Perceptron Learning
- Creating basic Perceptron Algorithm
+ Created a basic Perceptron Algorithm.
